@@ -1,0 +1,3 @@
+[submodule "Latestmint/vendor/spdlog"]
+	path = Latestmint/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
